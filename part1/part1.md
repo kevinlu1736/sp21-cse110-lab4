@@ -1,4 +1,4 @@
-1a  
+## Part 1a  
 1. values added:  20
 2. final result:  20
 3. Error, it should print: values added: 20, but line 13 result is undefine, result is only available in the {}
@@ -6,7 +6,7 @@
 5. Error, line 7, can't reasign value to const
 6. Error, out of scope, const value not accessible out side the block, and lin 7 has error described above.
 
-1b  
+## Part 1b  
 1. log 3 to console, var is visible to the inside of the function
 2. log 150 to console, var discountedPrice is accessible from outside the block, it's valid inside the function
 3. log 150 to console, finalPrice is accessible it's valid inside the function.
@@ -51,11 +51,14 @@ line 3: loop through the [1,2,3], call doSomething to each element and push the 
 line 6: return the new array  
 doSomething is a mapping function that map the original value to 2 times of the value   
 
-19. 
-1  
+19.  output:
+
+```
+1   
 4  
 3  
 2  
+```
 
 
 
